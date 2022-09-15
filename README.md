@@ -2,9 +2,7 @@
 
 
 
-## 📲 Link do deploy
 
-Use a aplicação em [Link do deploy]() 
 
 ## 📑 Sobre o projeto
 
