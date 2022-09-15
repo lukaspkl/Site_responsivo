@@ -6,6 +6,7 @@
 ## 📲 Link do deploy
 
 Use a aplicação em [[Link do deploy](https://chic-kashata-8ceded.netlify.app/)] 
+> **OBS:**  no link você pode ver como o site se comporta na responsividade 👍
 
 ## 📑 Sobre o projeto
 
