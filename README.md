@@ -1,8 +1,7 @@
 # Site Responsivo - Aula 
 
-
-
-
+> Overview da aplicação <br>
+**GIF Demonstração**:![ezgif com-gif-maker](https://user-images.githubusercontent.com/30334760/190305342-1925819b-4f67-4717-a02d-6999a420b47d.gif)
 
 ## 📑 Sobre o projeto
 
